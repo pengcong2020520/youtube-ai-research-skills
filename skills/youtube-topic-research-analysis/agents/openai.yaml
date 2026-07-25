@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube 主题交叉研究"
+  short_description: "按关键词筛选热门高质量视频，并生成多源交叉验证深度报告"
+  default_prompt: "使用 $youtube-topic-research-analysis 搜索指定主题的高质量 YouTube 视频，采集多篇逐字稿并生成交叉验证深度解读。"

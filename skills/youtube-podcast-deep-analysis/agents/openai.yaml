@@ -1,0 +1,4 @@
+interface:
+  display_name: "YouTube 播客深度解读"
+  short_description: "增量采集 YouTube 逐字稿并生成高质量深度解读"
+  default_prompt: "使用 $youtube-podcast-deep-analysis 增量采集指定 YouTube 博主的最新逐字稿，并按统一模板逐篇生成深度解读。"

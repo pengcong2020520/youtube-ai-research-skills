@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "collections": {
+    "ai-high-quality": {
+      "description": "Curated high-quality AI podcast and interview sources in English and Chinese.",
+      "sources": [
+        {
+          "id": "lex-fridman",
+          "display_name": "Lex Fridman",
+          "channel_url": "https://www.youtube.com/@lexfridman",
+          "preferred_language": "en",
+          "aliases": ["Lex Fridman Podcast", "Lex Friedman"],
+          "focus": ["AI research", "technology", "science", "philosophy", "long-form interviews"]
+        },
+        {
+          "id": "dwarkesh-podcast",
+          "display_name": "Dwarkesh Podcast",
+          "channel_url": "https://www.youtube.com/@DwarkeshPatel",
+          "preferred_language": "en",
+          "aliases": ["Dwarkesh Patel", "Dwarkesh Podcast"],
+          "focus": ["frontier AI", "AI labs", "research leaders", "long-form interviews"]
+        },
+        {
+          "id": "latent-space",
+          "display_name": "Latent Space",
+          "channel_url": "https://www.youtube.com/@LatentSpacePod",
+          "preferred_language": "en",
+          "aliases": ["Latent Space Podcast", "swyx", "Alessio Fanelli"],
+          "focus": ["AI engineering", "agents", "reasoning", "open-source models"]
+        },
+        {
+          "id": "cognitive-revolution",
+          "display_name": "The Cognitive Revolution",
+          "channel_url": "https://www.youtube.com/@CognitiveRevolutionPodcast",
+          "preferred_language": "en",
+          "aliases": ["Cognitive Revolution", "Nathan Labenz"],
+          "focus": ["AI cognition", "AI safety", "ethics", "technology and society"]
+        },
+        {
+          "id": "zhang-xiaojun-podcast",
+          "display_name": "张小珺商业访谈录",
+          "channel_url": "https://www.youtube.com/@xiaojunpodcast",
+          "preferred_language": "zh-Hans",
+          "aliases": ["Zhang Xiaojun Podcast", "张小珺", "张小珺商业访谈录"],
+          "focus": ["AI business", "technology companies", "Chinese founders", "long-form interviews"]
+        },
+        {
+          "id": "the-valley-101",
+          "display_name": "硅谷101",
+          "channel_url": "https://www.youtube.com/@TheValley101",
+          "preferred_language": "zh-Hans",
+          "aliases": ["The Valley 101", "TheValley101", "硅谷101"],
+          "focus": ["Silicon Valley", "AI industry", "technology business", "Chinese-language interviews"]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.log
+youtube-transcripts-index.json
+research-manifest-*.json
+逐字稿/
+分析/
