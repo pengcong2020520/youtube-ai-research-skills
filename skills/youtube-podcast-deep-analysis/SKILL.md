@@ -1,6 +1,6 @@
 ---
 name: youtube-podcast-deep-analysis
-description: Incrementally collect the newest public YouTube transcripts for a named creator or the built-in high-quality AI podcast collection, then turn unanalysed episodes into long-form Chinese first-principles deep readings and save both transcripts and analyses as Obsidian-compatible Markdown. Use when Codex needs to run the complete YouTube podcast research workflow, update a local transcript archive without duplicates, analyse existing transcript notes one episode at a time, or keep the personal English and Chinese AI information repository current. Never download video or audio.
+description: Incrementally collect the newest public YouTube transcripts for a named creator or the built-in high-quality AI podcast collection, then turn unanalysed episodes into long-form Chinese first-principles deep readings and save both transcripts and analyses as Obsidian-compatible Markdown. Use when Codex needs to run the complete YouTube podcast research workflow, update a local transcript archive without duplicates, analyse existing transcript notes one episode at a time, or keep an English and Chinese AI information repository current. Never download video or audio.
 ---
 
 # YouTube Podcast Deep Analysis
